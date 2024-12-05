@@ -1,5 +1,3 @@
-import requests
-import json
 import flask
 import flask_cors
 from flask import jsonify
